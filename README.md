@@ -6,7 +6,7 @@ Calculator example project with satisfying the following requirements:
 - The number of operands of each expression is number $n$ inserted by the user (for any expression) between 3 and 5 included;
 - The values of the operands ranges from 0 to 100 included;
 - Do not write any additional information on the file;
-- After the generation of the expressions write a file "result.txt" in the same folder of the program containing \textbf{ONLY}:
+- After the generation of the expressions write a file "result.txt" in the same folder of the program containing ONLY:
 	- Your student ID;
 	- The text of the four expressions and the related results;
 
